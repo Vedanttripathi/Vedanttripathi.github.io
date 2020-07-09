@@ -392,7 +392,7 @@
 
 @media (max-width: 768px) {
   * {
-    font-size: 0.5rem;
+    font-size: 0.8rem;
   }
   .container {
     width: 100%;
@@ -449,11 +449,11 @@
   }
 
   .logo {
-    font-size: smaller;
+    font-size: small;
   }
 
   .navbar-li {
-    font-size: smaller;
+    font-size: small;
   }
 
   .about {
