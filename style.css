@@ -390,6 +390,72 @@
   margin: 5%;
 }
 
+@media (max-width: 768px) {
+  .container {
+    width: 200%;
+  }
+  .container-1 {
+    width: 200%;
+  }
+  .container-2 {
+    width: 200%;
+  }
+  .container-3 {
+    width: 200%;
+  }
+  .container-4 {
+    width: 200%;
+  }
+  .container-5 {
+    width: 200%;
+  }
+
+  .sub-container-1 {
+    margin: 0px 5%;
+  }
+  .sub-container-2 {
+    padding: 0px 5%;
+  }
+  .sub-container-3 {
+    padding: 0px 5%;
+  }
+  .sub-container-4 {
+    padding: 0px 5%;
+  }
+
+  .navbar {
+    padding-top: 5%;
+  }
+
+  .about {
+    padding-top: 5%;
+  }
+
+  .moments {
+    padding-top: 5%;
+  }
+
+  .trips-head {
+    padding-top: 5%;
+  }
+  .contact {
+    height: 30%;
+  }
+
+  .my-details {
+    margin: 0%;
+    padding: 5%;
+  }
+
+  .my-photo {
+    margin: 0%;
+  }
+
+  .quote-tag {
+    font-size: 3rem;
+  }
+}
+
 /* #5F6067 us this color when you make grids on black backgrounds */
 /* #C84E3E use this in another container */
 /* Museosans - Also search for this font with the weight of 900 */
