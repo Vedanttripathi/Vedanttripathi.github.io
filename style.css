@@ -391,40 +391,69 @@
 }
 
 @media (max-width: 768px) {
+  * {
+    font-size: 0.5rem;
+  }
   .container {
-    width: 200%;
+    width: 100%;
+    height: 400px;
   }
   .container-1 {
-    width: 200%;
+    width: 100%;
+    height: 300px;
   }
   .container-2 {
-    width: 200%;
+    width: 100%;
+    height: 400px;
   }
   .container-3 {
-    width: 200%;
+    width: 100%;
+    height: 400px;
   }
   .container-4 {
-    width: 200%;
+    width: 100%;
+    height: 400px;
   }
   .container-5 {
-    width: 200%;
+    width: 100%;
+    height: 400px;
+  }
+
+  .welcome-txt {
+    font-size: small;
   }
 
   .sub-container-1 {
+    width: 100%;
+    height: 400px;
     margin: 0px 5%;
   }
   .sub-container-2 {
+    width: 100%;
+    height: 400px;
     padding: 0px 5%;
   }
   .sub-container-3 {
+    width: 100%;
+    height: 400px;
     padding: 0px 5%;
   }
   .sub-container-4 {
+    width: 100%;
+    height: 400px;
     padding: 0px 5%;
   }
 
   .navbar {
     padding-top: 5%;
+  }
+
+  .logo {
+    font-size: smaller;
+  }
+
+  .navbar-li {
+    font-size: smaller;
   }
 
   .about {
@@ -449,6 +478,29 @@
 
   .my-photo {
     margin: 0%;
+    height: 200px;
+    width: 120px;
+  }
+
+  .friends {
+    margin: 0%;
+    height: 200px;
+    width: 120px;
+  }
+
+  .trip-photo-1 {
+    height: 150px;
+    width: 100px;
+  }
+
+  .trip-photo-2 {
+    height: 150px;
+    width: 100px;
+  }
+
+  .trip-photo-3 {
+    height: 150px;
+    width: 100px;
   }
 
   .quote-tag {
