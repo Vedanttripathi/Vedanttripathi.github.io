@@ -363,7 +363,7 @@
 }
 
 .contact {
-  height: 30%;
+  height: auto;
   width: auto;
   padding-left: 10%;
   padding-top: 5%;
