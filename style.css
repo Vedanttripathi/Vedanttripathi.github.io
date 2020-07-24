@@ -480,6 +480,7 @@
     margin: 0%;
     height: 200px;
     width: 120px;
+    transform: translate(25%);
   }
 
   .friends {
@@ -491,6 +492,7 @@
   .trip-photo-1 {
     height: 150px;
     width: 100px;
+    transform: translate(25%);
   }
 
   .trip-photo-2 {
@@ -501,6 +503,7 @@
   .trip-photo-3 {
     height: 150px;
     width: 100px;
+    transform: translate(25%);
   }
 
   .quote-tag {
