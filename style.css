@@ -399,8 +399,7 @@
     height: 400px;
   }
   .container-1 {
-    width: 100%;
-    height: 300px;
+    display: none;
   }
   .container-2 {
     width: 100%;
