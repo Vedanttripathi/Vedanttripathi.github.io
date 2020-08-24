@@ -532,49 +532,6 @@ li {
   font-weight: 800;
 }
 
-.contact {
-  height: 30vh;
-  width: 100vw;
-  background-color: #16222d;
-  color: white;
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-rows: 1fr;
-  grid-template-areas: "follow contact";
-}
-
-.contact-d {
-  background-color: #16222d;
-  color: white;
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-template-rows: 1fr;
-  grid-template-areas: "follow contact";
-}
-
-.follow {
-  grid-area: follow;
-  padding: 3rem;
-}
-
-.follow h1 {
-  font-size: 4rem;
-  font-family: "Quicksand", sans-serif;
-}
-
-.fonts {
-  padding: 3rem 2rem 0 0.5rem;
-}
-
-.contact-abt {
-  grid-area: contact;
-  padding: 3rem;
-}
-
-.contact-abt h1 {
-  font-size: 4rem;
-  font-family: "Quicksand", sans-serif;
-}
 
 .black {
   color: black;
